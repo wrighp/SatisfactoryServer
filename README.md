@@ -38,7 +38,7 @@
 > Pylons are separated by 10f in between, and they sit on a single foundation tile.
 
 ![](media/pylons1.png)
-> Place directly on top of the foundation. You can use the ctrl key for precise placement, although it is usually easiest to hit H for hold, and then nude with the arrow keys into place. If you screw up you can remove the whole blueprint at once in the blueprint deletion mode (hit R).
+> Place directly on top of the foundation. You can use the ctrl key for precise placement, although it is usually easiest to hit H for hold, and then nudge with the arrow keys into place. If you screw up you can remove the whole blueprint at once in the blueprint deletion mode (hit R).
 
 ![](media/pylons3.png)
 > Place the lower pylons until it clips into the ground. Easiest in blueprint mode, however you still may need to nudge with H and arrow keys into place.
